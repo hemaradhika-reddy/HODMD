@@ -1,5 +1,4 @@
-# Higher Order Dynamic Mode Decomposition for
-Robust Parameter Estimation in Power Grids
+# Higher Order Dynamic Mode Decomposition for Robust Parameter Estimation in Power Grids
 
 
 This projects shows  the potential of HODMD is examined
