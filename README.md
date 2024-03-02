@@ -1,6 +1,7 @@
 # Higher Order Dynamic Mode Decomposition for Robust Parameter Estimation in Power Grids
 
-![alt text](URL_of_image "PROPOSED METHODOLOGY")
+![alt text]("https://amritavishwavidyapeetham-my.sharepoint.com/:i:/g/personal/cb_en_u4aie21050_cb_students_amrita_edu/EaoJrgLgWq1JlQh-Q-kHPbEBS7QH1yYfjeYcOk7-1kqVAw?e=LRq3Ql")
+
 
 This projects shows  the potential of HODMD is examined
 for the estimation of fundamental frequency, amplitude, and the
