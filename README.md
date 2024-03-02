@@ -1,6 +1,6 @@
 # Higher Order Dynamic Mode Decomposition for Robust Parameter Estimation in Power Grids
 
-![alt text]("https://amritavishwavidyapeetham-my.sharepoint.com/:i:/g/personal/cb_en_u4aie21050_cb_students_amrita_edu/EaoJrgLgWq1JlQh-Q-kHPbEBS7QH1yYfjeYcOk7-1kqVAw?e=LRq3Ql")
+("https://amritavishwavidyapeetham-my.sharepoint.com/:i:/g/personal/cb_en_u4aie21050_cb_students_amrita_edu/EaoJrgLgWq1JlQh-Q-kHPbEBS7QH1yYfjeYcOk7-1kqVAw?e=LRq3Ql")
 
 
 This projects shows  the potential of HODMD is examined
